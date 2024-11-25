@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994776747238",
+    "project_id": "astrowise-235a1",
+    "storage_bucket": "astrowise-235a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994776747238:android:9d20ba89befe91ccb43f27",
+        "android_client_info": {
+          "package_name": "com.vdoc.doctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3tJQMuMpJHR-0UiH0nrIsq7d9XHi68RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
